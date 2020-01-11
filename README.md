@@ -7,7 +7,7 @@ randomly to 4 predefined positions.
 That was implemented using the c# Function Random.Range() and a SerializedField 
 GameObject Array in which the predefined positions are saved.
 
-To prevent that de Ball ist set to the same position in a row twice or more i
+To prevent that the Ball ist set to the same position in a row twice or more, i
 wrote a while loop which repeats the Random.Range() Function as long as a new
 position is found. Which might not be the most efficient way 
 but for a Project that size it shouldn't be problem.
@@ -36,7 +36,7 @@ WebGL needs to be installed.
 Github Template: 3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+incl. progress in percent 
 100%
 
 ### Limitations: 
